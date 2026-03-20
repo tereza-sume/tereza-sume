@@ -1,4 +1,4 @@
-# Hi there! I'm Tereza Sume 👋
+# Hi there! I'm Tereza Sume 👋 👩🏻‍💻
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C792EA&lines=Web+Design+and+Development;Front-End+Developer;)
 
