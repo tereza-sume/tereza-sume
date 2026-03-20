@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C792EA&lines=Web+Design+and+Development;Front-End+Developer;)
 
-👩🏻‍💻 Web design and development student focused on front-end development, visual branding, and responsive digital experiences.
+👩🏻‍💻 Web designer and developer focused on front-end development, visual branding, and responsive digital experiences.
 
 ## Education
 - Web Design and Development, emphasis in Web & App
