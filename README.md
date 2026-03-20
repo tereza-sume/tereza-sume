@@ -7,8 +7,8 @@
 - Utah Valley University
 
 ## Currently
-- Building front-end projects for my portfolio
-- Learning React and strengthening my JavaScript skills
+- Building front-end projects
+- Learning React and JavaScript
 
 ## Skills
 HTML • CSS • SCSS • JavaScript • React • Figma • Adobe Illustrator • Photoshop
