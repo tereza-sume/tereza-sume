@@ -19,9 +19,9 @@ HTML • CSS • SCSS • JavaScript • React • Figma • Adobe Illustrator �
 - [Email](mailto:your@email.com)
 - [Behance](#)
 
-![Tereza's GitHub stats](https://github-readme-stats.vercel.app/api?username=tereza-sume&show_icons=true&theme=midnight-purple)
+![Tereza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tereza-sume&show_icons=true&theme=midnight-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tereza-sume&layout=compact&theme=midnight-purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tereza-sume&layout=compact&theme=midnight-purple)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tereza-sume&theme=midnight-purple)
 
