@@ -11,13 +11,7 @@
 - Learning React and JavaScript
 
 ## Skills
-HTML • CSS • SCSS • JavaScript • React • Figma • Adobe Illustrator • Photoshop
-
-## Connect With Me
-- [LinkedIn](#)
-- [Portfolio Website](#)
-- [Email](mailto:your@email.com)
-- [Behance](#)
+HTML • CSS • SCSS • JavaScript • React 
 
 ![Tereza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tereza-sume&show_icons=true&theme=midnight-purple)
 
